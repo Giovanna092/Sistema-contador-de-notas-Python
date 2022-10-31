@@ -1,2 +1,5 @@
 # Sistema-contador-de-notas-Python
-Esta é uma atividade que desenvolvi no primeiro semestre da faculdade da qual é calculado as notas do aluno e contabiliza as faltas
+🧠 Este projeto foi desenvolvido por mim para um projeto da faculdade. 
+🏫 Nele eu utilizei algumas regras da minha faculdade para determinar se o aluno foi ou não aprovado.
+## As regras são:
+- 
