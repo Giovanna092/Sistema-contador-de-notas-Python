@@ -6,7 +6,7 @@ notaA1 = float(input("Entre com a nota da A1[0.0 a 5.0]: "))
 notaA2 = float(input("Entre com a nota da A2[0.0 a 5.0]: "))
 
 # Analise das Faltas
-presenca = int(input("Entre com as faltas (%): "))
+presenca = int(input("Entre com a presença (%): "))
 if (presenca < 75):
     print("Reprovado por Falta")
 else:
